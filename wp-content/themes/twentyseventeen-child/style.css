@@ -2,7 +2,7 @@
  Theme Name:   Twenty Seventeen Child
  Theme URI:    http://example.com/twenty-seventeen-child/
  Description:  Twenty Seventeen Child Theme
- Author:       John Doe
+ Author:       Thomas Casse
  Author URI:   http://example.com
  Template:     twentyseventeen
  Version:      1.0.0
@@ -11,3 +11,5 @@
  Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
  Text Domain:  twentyseventeenchild
 */
+
+@import "/wp-content/themes/twentyseventeen/style.css";
